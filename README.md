@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on my **[Developer Portfolio](https://github.com/Mohit-cmd-jpg/Developer-s-portfolio)**, a **[Secure File Sharing App](https://github.com/Mohit-cmd-jpg/secure-file-sharing)**, and enterprise-level tools like **[HRMS-lite](https://github.com/Mohit-cmd-jpg/hrms-lite)**.
+- 🔭 I’m currently working on my **[Developer Portfolio](https://github.com/Mohit-cmd-jpg/Developer-s-portfolio)** (A high-performance 3D web application utilizing R3F, Draco, Vite, and GSAP).
 - 🌱 I’m currently learning deeper aspects of **AI, Web3, and Advanced Systems Design**.
 - 💼 I specialize in: **MERN Stack, Next.js, and TypeScript**.
 - 💬 Ask me about: **React, Next.js, Backend Architecture, and Database Design**.
