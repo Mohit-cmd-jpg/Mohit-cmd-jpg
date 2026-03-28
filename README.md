@@ -54,6 +54,7 @@
 
 ### 🔥 Featured Projects
 
+<!-- PROJECTS_START -->
 <table align="center" width="100%">
   <tr>
     <td width="50%">
@@ -84,6 +85,7 @@
     </td>
   </tr>
 </table>
+<!-- PROJECTS_END -->
 
 ---
 
