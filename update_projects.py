@@ -75,14 +75,19 @@ for i in range(0, len(repos), 2):
             url = repo['url']
             branch = repo.get('defaultBranchRef', {}).get('name', 'main') if repo.get('defaultBranchRef') else 'main'
             
-            # Check if custom frontend image exists in repo root
+            # Explicitly check common paths for preview images
             img_url = ""
-            for img in ["frontpage.png", "dashboard.png", "frontpage.jpg", "dashboard.jpg", "frontpage.webp"]:
-                check_url = f"https://raw.githubusercontent.com/{USERNAME}/{name}/{branch}/{img}"
-                img_resp = requests.head(check_url, headers=headers)
-                if img_resp.status_code == 200:
-                    img_url = f"https://github.com/{USERNAME}/{name}/raw/{branch}/{img}"
-                    break
+            subdirs = ["", "public/images/", "docs/images/", "public/screenshots/", "docs/assets/screenshots/", "client/public/", "frontend/public/", "assets/"]
+            file_names = ["frontpage.png", "Frontpage.png", "dashboard.png", "Dashboard.png", "frontend.png", "Frontend.png"]
+            
+            for subdir in subdirs:
+                if img_url: break
+                for img in file_names:
+                    check_url = f"https://raw.githubusercontent.com/{USERNAME}/{name}/{branch}/{subdir}{img}"
+                    img_resp = requests.head(check_url, headers=headers)
+                    if img_resp.status_code == 200:
+                        img_url = f"https://github.com/{USERNAME}/{name}/raw/{branch}/{subdir}{img}"
+                        break
             
             # If no image is specifically uploaded by you in the repo root, fallback to github stats or opengraph image
             if not img_url:
