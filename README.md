@@ -57,31 +57,35 @@
 <!-- PROJECTS_START -->
 <table align="center" width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/Mohit-cmd-jpg/Developer-s-portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=Mohit-cmd-jpg&repo=Developer-s-portfolio&theme=transparent&show_owner=true" width="100%" alt="Developer-s-portfolio" />
+        <img src="https://opengraph.githubassets.com/1/Mohit-cmd-jpg/Developer-s-portfolio" width="100%" alt="Developer-s-portfolio" style="border-radius: 8px; margin-bottom: 5px;"/>
       </a>
-      <p><i>A high-performance 3D web application utilizing R3F, Draco, Vite, and GSAP.</i></p>
+      <h3 style="margin: 0;"><a href="https://github.com/Mohit-cmd-jpg/Developer-s-portfolio">Developer-s-portfolio</a></h3>
+      <p style="margin-top: 5px;"><i>A high-performance 3D web application utilizing R3F, Draco, Vite, and GSAP.</i></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/Mohit-cmd-jpg/secure-file-sharing">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=Mohit-cmd-jpg&repo=secure-file-sharing&theme=transparent&show_owner=true" width="100%" alt="secure-file-sharing" />
+        <img src="https://opengraph.githubassets.com/1/Mohit-cmd-jpg/secure-file-sharing" width="100%" alt="secure-file-sharing" style="border-radius: 8px; margin-bottom: 5px;"/>
       </a>
-      <p><i>MERN Web3 App for secure file sharing, decentralized storage (Pinata), and JWT access control.</i></p>
+      <h3 style="margin: 0;"><a href="https://github.com/Mohit-cmd-jpg/secure-file-sharing">secure-file-sharing</a></h3>
+      <p style="margin-top: 5px;"><i>MERN Web3 App for secure file sharing, decentralized storage (Pinata), and JWT access control.</i></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/Mohit-cmd-jpg/hrms-lite">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=Mohit-cmd-jpg&repo=hrms-lite&theme=transparent&show_owner=true" width="100%" alt="hrms-lite" />
+        <img src="https://opengraph.githubassets.com/1/Mohit-cmd-jpg/hrms-lite" width="100%" alt="hrms-lite" style="border-radius: 8px; margin-bottom: 5px;"/>
       </a>
-      <p><i>Production-ready HR Management System with Next.js 16, React 19, TypeScript, and Supabase.</i></p>
+      <h3 style="margin: 0;"><a href="https://github.com/Mohit-cmd-jpg/hrms-lite">hrms-lite</a></h3>
+      <p style="margin-top: 5px;"><i>Production-ready HR Management System with Next.js 16, React 19, TypeScript, and Supabase.</i></p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/Mohit-cmd-jpg/University-Placement-Management-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin?username=Mohit-cmd-jpg&repo=University-Placement-Management-System&theme=transparent&show_owner=true" width="100%" alt="University-Placement-Management" />
+        <img src="https://opengraph.githubassets.com/1/Mohit-cmd-jpg/University-Placement-Management-System" width="100%" alt="University-Placement-Management-System" style="border-radius: 8px; margin-bottom: 5px;"/>
       </a>
-      <p><i>A centralized digital placement portal built to manage student placement processes actively.</i></p>
+      <h3 style="margin: 0;"><a href="https://github.com/Mohit-cmd-jpg/University-Placement-Management-System">University-Placement-Management-System</a></h3>
+      <p style="margin-top: 5px;"><i>A centralized digital placement portal built to manage student placement processes actively.</i></p>
     </td>
   </tr>
 </table>
