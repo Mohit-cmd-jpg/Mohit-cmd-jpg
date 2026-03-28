@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mohit;Full-Stack+Web+Developer;MERN+%7C+TypeScript+%7C+Next.js;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Hi,+I'm+Mohit;Full-Stack+Web+Developer;MERN+%7C+TypeScript+%7C+Next.js;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -58,13 +58,13 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/Mohit-cmd-jpg/Developer-s-portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit-cmd-jpg&repo=Developer-s-portfolio&theme=transparent&show_owner=true" width="100%" alt="Developer-s-portfolio" />
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=Mohit-cmd-jpg&repo=Developer-s-portfolio&theme=transparent&show_owner=true" width="100%" alt="Developer-s-portfolio" />
       </a>
       <p><i>A high-performance 3D web application utilizing R3F, Draco, Vite, and GSAP.</i></p>
     </td>
     <td width="50%">
       <a href="https://github.com/Mohit-cmd-jpg/secure-file-sharing">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit-cmd-jpg&repo=secure-file-sharing&theme=transparent&show_owner=true" width="100%" alt="secure-file-sharing" />
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=Mohit-cmd-jpg&repo=secure-file-sharing&theme=transparent&show_owner=true" width="100%" alt="secure-file-sharing" />
       </a>
       <p><i>MERN Web3 App for secure file sharing, decentralized storage (Pinata), and JWT access control.</i></p>
     </td>
@@ -72,13 +72,13 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/Mohit-cmd-jpg/hrms-lite">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit-cmd-jpg&repo=hrms-lite&theme=transparent&show_owner=true" width="100%" alt="hrms-lite" />
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=Mohit-cmd-jpg&repo=hrms-lite&theme=transparent&show_owner=true" width="100%" alt="hrms-lite" />
       </a>
       <p><i>Production-ready HR Management System with Next.js 16, React 19, TypeScript, and Supabase.</i></p>
     </td>
     <td width="50%">
       <a href="https://github.com/Mohit-cmd-jpg/University-Placement-Management-System">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohit-cmd-jpg&repo=University-Placement-Management-System&theme=transparent&show_owner=true" width="100%" alt="University-Placement-Management" />
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=Mohit-cmd-jpg&repo=University-Placement-Management-System&theme=transparent&show_owner=true" width="100%" alt="University-Placement-Management" />
       </a>
       <p><i>A centralized digital placement portal built to manage student placement processes actively.</i></p>
     </td>
@@ -91,13 +91,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohit-cmd-jpg&show_icons=true&theme=transparent&rank_icon=github&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-cmd-jpg&theme=transparent" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohit-cmd-jpg&theme=transparent" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-cmd-jpg&layout=compact&theme=transparent&hide_title=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohit-cmd-jpg&layout=compact&theme=transparent&hide_title=true&langs_count=6" />
 </div>
 
 ---
