@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on my **[Developer Portfolio](https://github.com/Mohit-cmd-jpg/Developer-s-portfolio)** (A high-performance 3D web application utilizing R3F, Draco, Vite, and GSAP).
+- 🔭 I’m currently working on my **[University Placement Management System](https://github.com/Mohit-cmd-jpg/University-Placement-Management-System)** (A centralized digital placement portal built to manage student placement processes actively).
 - 🌱 I’m currently learning deeper aspects of **AI, Web3, and Advanced Systems Design**.
 - 💼 I specialize in: **MERN Stack, Next.js, and TypeScript**.
 - 💬 Ask me about: **React, Next.js, Backend Architecture, and Database Design**.
@@ -58,11 +58,11 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Mohit-cmd-jpg/Developer-s-portfolio">
-        <img src="https://github.com/Mohit-cmd-jpg/Developer-s-portfolio/raw/main/public/images/frontpage.png" width="100%" alt="Developer-s-portfolio" style="border-radius: 8px; margin-bottom: 5px;"/>
+      <a href="https://github.com/Mohit-cmd-jpg/University-Placement-Management-System">
+        <img src="https://github.com/Mohit-cmd-jpg/University-Placement-Management-System/raw/main/docs/assets/screenshots/Frontpage.png" width="100%" alt="University-Placement-Management" style="border-radius: 8px; margin-bottom: 5px;"/>
       </a>
-      <h3 style="margin: 0;"><a href="https://github.com/Mohit-cmd-jpg/Developer-s-portfolio">Developer-s-portfolio</a></h3>
-      <p style="margin-top: 5px;"><i>A high-performance 3D web application utilizing R3F, Draco, Vite, and GSAP.</i></p>
+      <h3 style="margin: 0;"><a href="https://github.com/Mohit-cmd-jpg/University-Placement-Management-System">University-Placement-Management-System</a></h3>
+      <p style="margin-top: 5px;"><i>A centralized digital placement portal built to manage student placement processes actively.</i></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Mohit-cmd-jpg/secure-file-sharing">
@@ -74,18 +74,18 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/Mohit-cmd-jpg/Developer-s-portfolio">
+        <img src="https://github.com/Mohit-cmd-jpg/Developer-s-portfolio/raw/main/public/images/frontpage.png" width="100%" alt="Developer-s-portfolio" style="border-radius: 8px; margin-bottom: 5px;"/>
+      </a>
+      <h3 style="margin: 0;"><a href="https://github.com/Mohit-cmd-jpg/Developer-s-portfolio">Developer-s-portfolio</a></h3>
+      <p style="margin-top: 5px;"><i>A high-performance 3D web application utilizing R3F, Draco, Vite, and GSAP.</i></p>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://github.com/Mohit-cmd-jpg/hrms-lite">
-        <img src="https://github.com/Mohit-cmd-jpg/hrms-lite/raw/main/public/screenshots/Dashboard.png" width="100%" alt="hrms-lite" style="border-radius: 8px; margin-bottom: 5px;"/>
+        <img src="https://github.com/Mohit-cmd-jpg/hrms-lite/raw/master/public/screenshots/Dashboard.png" width="100%" alt="hrms-lite" style="border-radius: 8px; margin-bottom: 5px;"/>
       </a>
       <h3 style="margin: 0;"><a href="https://github.com/Mohit-cmd-jpg/hrms-lite">hrms-lite</a></h3>
       <p style="margin-top: 5px;"><i>Production-ready HR Management System with Next.js 16, React 19, TypeScript, and Supabase.</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Mohit-cmd-jpg/University-Placement-Management-System">
-        <img src="https://github.com/Mohit-cmd-jpg/University-Placement-Management-System/raw/main/docs/assets/screenshots/Frontpage.png" width="100%" alt="University-Placement-Management" style="border-radius: 8px; margin-bottom: 5px;"/>
-      </a>
-      <h3 style="margin: 0;"><a href="https://github.com/Mohit-cmd-jpg/University-Placement-Management-System">University-Placement-Management-System</a></h3>
-      <p style="margin-top: 5px;"><i>A centralized digital placement portal built to manage student placement processes actively.</i></p>
     </td>
   </tr>
 </table>
