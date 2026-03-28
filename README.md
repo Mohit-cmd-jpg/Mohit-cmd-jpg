@@ -106,9 +106,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohit-cmd-jpg/Mohit-cmd-jpg/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohit-cmd-jpg/Mohit-cmd-jpg/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mohit-cmd-jpg/Mohit-cmd-jpg/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohit-cmd-jpg/Mohit-cmd-jpg/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohit-cmd-jpg/Mohit-cmd-jpg/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mohit-cmd-jpg/Mohit-cmd-jpg/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -120,7 +120,7 @@
   <a href="https://github.com/Mohit-cmd-jpg"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <!-- Update specific portfolio/email links below -->
-  <a href="https://m0hit.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://developer--portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
 </div>
 
 <br/>
