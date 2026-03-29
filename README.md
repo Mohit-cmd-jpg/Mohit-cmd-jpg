@@ -59,17 +59,17 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Mohit-cmd-jpg/University-Placement-Management-System">
-        <img src="https://github.com/Mohit-cmd-jpg/University-Placement-Management-System/raw/main/docs/assets/screenshots/Frontpage.png" width="100%" alt="University-Placement-Management" style="border-radius: 8px; margin-bottom: 5px;"/>
+        <img src="https://github.com/Mohit-cmd-jpg/University-Placement-Management-System/raw/main/docs/assets/screenshots/Frontpage.png" width="100%" alt="University-Placement-Management-System" style="border-radius: 8px; margin-bottom: 5px;"/>
       </a>
       <h3 style="margin: 0;"><a href="https://github.com/Mohit-cmd-jpg/University-Placement-Management-System">University-Placement-Management-System</a></h3>
-      <p style="margin-top: 5px;"><i>A centralized digital placement portal built to manage student placement processes actively.</i></p>
+      <p style="margin-top: 5px;"><i>The placement process in many universities is still manual, using spreadsheets, emails, and WhatsApp groups. Because of this, it becomes difficult to manage student data, track eligibility, schedule interviews, and share updates, so there is a need for a centralized digital placement portal.</i></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Mohit-cmd-jpg/secure-file-sharing">
         <img src="https://github.com/Mohit-cmd-jpg/secure-file-sharing/raw/main/docs/images/Frontpage.png" width="100%" alt="secure-file-sharing" style="border-radius: 8px; margin-bottom: 5px;"/>
       </a>
       <h3 style="margin: 0;"><a href="https://github.com/Mohit-cmd-jpg/secure-file-sharing">secure-file-sharing</a></h3>
-      <p style="margin-top: 5px;"><i>MERN Web3 App for secure file sharing, decentralized storage (Pinata), and JWT access control.</i></p>
+      <p style="margin-top: 5px;"><i>🔒 A modern, high-performance MERN application for secure file sharing, decentralized storage, and controlled access management. Built with a focus on security, data integrity, and premium user experience.</i></p>
     </td>
   </tr>
   <tr>
@@ -78,14 +78,14 @@
         <img src="https://github.com/Mohit-cmd-jpg/Developer-s-portfolio/raw/main/public/images/frontpage.png" width="100%" alt="Developer-s-portfolio" style="border-radius: 8px; margin-bottom: 5px;"/>
       </a>
       <h3 style="margin: 0;"><a href="https://github.com/Mohit-cmd-jpg/Developer-s-portfolio">Developer-s-portfolio</a></h3>
-      <p style="margin-top: 5px;"><i>A high-performance 3D web application utilizing R3F, Draco, Vite, and GSAP.</i></p>
+      <p style="margin-top: 5px;"><i>A high-performance 3D web application serving as a developer portfolio. Utilizing R3F, Draco compression, Vite, and GSAP for fluid timeline animations.</i></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Mohit-cmd-jpg/hrms-lite">
         <img src="https://github.com/Mohit-cmd-jpg/hrms-lite/raw/master/public/screenshots/Dashboard.png" width="100%" alt="hrms-lite" style="border-radius: 8px; margin-bottom: 5px;"/>
       </a>
       <h3 style="margin: 0;"><a href="https://github.com/Mohit-cmd-jpg/hrms-lite">hrms-lite</a></h3>
-      <p style="margin-top: 5px;"><i>Production-ready HR Management System with Next.js 16, React 19, TypeScript, and Supabase.</i></p>
+      <p style="margin-top: 5px;"><i>A production-ready Human Resource Management System built with Next.js 16, React 19, TypeScript, and Supabase. Features comprehensive employee management, attendance tracking, and enterprise-grade quality standards.</i></p>
     </td>
   </tr>
 </table>
