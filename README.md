@@ -58,34 +58,34 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/Mohit-cmd-jpg/Mohit-cmd-jpg">
+        <img src="https://opengraph.githubassets.com/1/Mohit-cmd-jpg/Mohit-cmd-jpg" width="100%" alt="Mohit-cmd-jpg" style="border-radius: 8px; margin-bottom: 5px;"/>
+      </a>
+      <h3 style="margin: 0;"><a href="https://github.com/Mohit-cmd-jpg/Mohit-cmd-jpg">Mohit-cmd-jpg</a></h3>
+      <p style="margin-top: 5px;"><i>🚀 My personal GitHub profile README showcasing my portfolio, projects, tech stack, and GitHub stats.</i></p>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://github.com/Mohit-cmd-jpg/University-Placement-Management-System">
         <img src="https://github.com/Mohit-cmd-jpg/University-Placement-Management-System/raw/main/docs/assets/screenshots/Frontpage.png" width="100%" alt="University-Placement-Management-System" style="border-radius: 8px; margin-bottom: 5px;"/>
       </a>
       <h3 style="margin: 0;"><a href="https://github.com/Mohit-cmd-jpg/University-Placement-Management-System">University-Placement-Management-System</a></h3>
       <p style="margin-top: 5px;"><i>The placement process in many universities is still manual, using spreadsheets, emails, and WhatsApp groups. Because of this, it becomes difficult to manage student data, track eligibility, schedule interviews, and share updates, so there is a need for a centralized digital placement portal.</i></p>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Mohit-cmd-jpg/secure-file-sharing">
-        <img src="https://github.com/Mohit-cmd-jpg/secure-file-sharing/raw/main/docs/images/Frontpage.png" width="100%" alt="secure-file-sharing" style="border-radius: 8px; margin-bottom: 5px;"/>
-      </a>
-      <h3 style="margin: 0;"><a href="https://github.com/Mohit-cmd-jpg/secure-file-sharing">secure-file-sharing</a></h3>
-      <p style="margin-top: 5px;"><i>🔒 A modern, high-performance MERN application for secure file sharing, decentralized storage, and controlled access management. Built with a focus on security, data integrity, and premium user experience.</i></p>
-    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Mohit-cmd-jpg/Developer-s-portfolio">
-        <img src="https://github.com/Mohit-cmd-jpg/Developer-s-portfolio/raw/main/public/images/frontpage.png" width="100%" alt="Developer-s-portfolio" style="border-radius: 8px; margin-bottom: 5px;"/>
+      <a href="https://github.com/Mohit-cmd-jpg/Regression-and-Classification-Project">
+        <img src="https://opengraph.githubassets.com/1/Mohit-cmd-jpg/Regression-and-Classification-Project" width="100%" alt="Regression-and-Classification-Project" style="border-radius: 8px; margin-bottom: 5px;"/>
       </a>
-      <h3 style="margin: 0;"><a href="https://github.com/Mohit-cmd-jpg/Developer-s-portfolio">Developer-s-portfolio</a></h3>
-      <p style="margin-top: 5px;"><i>A high-performance 3D web application serving as a developer portfolio. Utilizing R3F, Draco compression, Vite, and GSAP for fluid timeline animations.</i></p>
+      <h3 style="margin: 0;"><a href="https://github.com/Mohit-cmd-jpg/Regression-and-Classification-Project">Regression-and-Classification-Project</a></h3>
+      <p style="margin-top: 5px;"><i>It contains two projects , one of regression and other is classfication</i></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Mohit-cmd-jpg/hrms-lite">
-        <img src="https://github.com/Mohit-cmd-jpg/hrms-lite/raw/master/public/screenshots/Dashboard.png" width="100%" alt="hrms-lite" style="border-radius: 8px; margin-bottom: 5px;"/>
+      <a href="https://github.com/Mohit-cmd-jpg/DIPS_Assignments">
+        <img src="https://opengraph.githubassets.com/1/Mohit-cmd-jpg/DIPS_Assignments" width="100%" alt="DIPS_Assignments" style="border-radius: 8px; margin-bottom: 5px;"/>
       </a>
-      <h3 style="margin: 0;"><a href="https://github.com/Mohit-cmd-jpg/hrms-lite">hrms-lite</a></h3>
-      <p style="margin-top: 5px;"><i>A production-ready Human Resource Management System built with Next.js 16, React 19, TypeScript, and Supabase. Features comprehensive employee management, attendance tracking, and enterprise-grade quality standards.</i></p>
+      <h3 style="margin: 0;"><a href="https://github.com/Mohit-cmd-jpg/DIPS_Assignments">DIPS_Assignments</a></h3>
+      <p style="margin-top: 5px;"><i>Assignments of Digital Image Processing</i></p>
     </td>
   </tr>
 </table>
